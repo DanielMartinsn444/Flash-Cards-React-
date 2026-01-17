@@ -51,10 +51,9 @@ Se você quer elevar seu nível em JS ou contribuir com novas questões:
    npm run dev
    ```
 
-## 👨‍💻 Mentor Notes
-
+## 👨‍💻 Mentor Notes:
 Este projeto é um marco no meu roadmap de evolução em React. Mais do que "fazer funcionar", o desafio aqui foi dominar a responsividade matemática e garantir uma UI fluida. No desenvolvimento, priorizei a acessibilidade e o desempenho de renderização, entendendo como o React lida com o ciclo de vida de componentes que mudam constantemente de estado.
-----
+
 
 English Version:
 
@@ -101,7 +100,7 @@ Install dependencies: npm install
 Start development: npm run dev
    ```
 
-👨‍💻 Mentor Notes
+👨‍💻 Mentor Notes:
 This project is a milestone in my React evolution roadmap. Beyond "making it work," the challenge was mastering mathematical responsiveness and ensuring a fluid UI. During development, I prioritized accessibility and rendering performance, gaining a deep understanding of how React handles the lifecycle of components with constant state changes.
 
 
