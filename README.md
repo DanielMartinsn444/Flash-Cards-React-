@@ -54,5 +54,54 @@ Se você quer elevar seu nível em JS ou contribuir com novas questões:
 ## 👨‍💻 Mentor Notes
 
 Este projeto é um marco no meu roadmap de evolução em React. Mais do que "fazer funcionar", o desafio aqui foi dominar a responsividade matemática e garantir uma UI fluida. No desenvolvimento, priorizei a acessibilidade e o desempenho de renderização, entendendo como o React lida com o ciclo de vida de componentes que mudam constantemente de estado.
+----
+
+English Version:
+
+Flashcards Project
+This is a solution to the Flashcards project challenge on roadmap.sh.
+
+Project URL
+https://flash-cards-react-sandy.vercel.app/
+
+🚀 JS/React Flashcards: Mastering the Core
+I developed this interactive flashcard platform to consolidate Modern JS (ES6+) and React concepts. It serves as a practical and visual study tool for developers aiming for seniority by mastering core technical principles.
+
+🎯 Purpose
+The main goal is to strengthen technical muscle memory. The app challenges developers with critical topics such as Hoisting, Temporal Dead Zone (TDZ), Prototypes, and Closures. Through a clean and intuitive interface, I transform theoretical study into a practical and dynamic experience.
+
+Key Features
+🧠 Active Recall: 3D flip-card system to test knowledge before revealing the answer.
+
+📊 Visual Feedback: Dynamic progress bar calculating learning status in real-time.
+
+🎨 Premium Design: Dark Mode aesthetic featuring Glassmorphism and neon glows to reduce eye strain.
+
+📱 Mobile-First: Fully responsive architecture, ensuring learning happens on any device.
+
+🛠️ Engineering Behind the Code
+I chose a "Lightweight & Vanilla-ish" approach, focusing on raw performance:
+
+React (Hooks & State): Efficient state management for card navigation and progress persistence.
+
+Modern CSS (Zero External Libs): Leveraged clamp() for fluid typography, Flexbox/Grid for layout, and Perspective 3D for native animations. The goal was to prove that stunning interfaces can be built without bloating the bundle with heavy styling libraries.
+
+Clean Architecture: Strict separation of concerns between components (ProgressBar, Flashcard, App) and centralized data management in questions.js.
+
+🚀 How to Run
+If you want to level up your JS skills or contribute new questions:
+   ```bash
+Clone the repo: git clone https://github.com/DanielMartinsn444/Flash-Cards-React-.git
+   ```
+   ```bash
+Install dependencies: npm install
+   ```
+
+   ```bash
+Start development: npm run dev
+   ```
+
+👨‍💻 Mentor Notes
+This project is a milestone in my React evolution roadmap. Beyond "making it work," the challenge was mastering mathematical responsiveness and ensuring a fluid UI. During development, I prioritized accessibility and rendering performance, gaining a deep understanding of how React handles the lifecycle of components with constant state changes.
 
 
