@@ -1,4 +1,9 @@
-**Project URL:** [https://flash-cards-react-sandy.vercel.app/](https://flash-cards-react-sandy.vercel.app/)
+# Flashcards Project
+
+This is a solution to the [Flashcards project challenge on roadmap.sh](https://roadmap.sh/projects/flash-cards).
+
+## Project URL
+https://flash-cards-react-sandy.vercel.app/
 
 # 🚀 JS/React Flashcards: Mastering the Core (Roadmap.sh Code)
 
