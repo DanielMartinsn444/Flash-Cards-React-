@@ -91,12 +91,12 @@ export const questions = [
     },
     {
         questionId: 19,
-        questionText: "Em termos de retorno, qual a diferença entre .forEach() e .reduce()?",
+        questionText: "Em termos de retorno/função, qual a diferença entre .forEach() e .reduce()?",
         correctAnswer: ".forEach sempre retorna undefined; .reduce retorna um único valor acumulado resultante da redução do array."
     },
     {
-        questionId: 20,
+        questionId: 20, 
         questionText: "O que caracteriza o DOM como uma interface agnóstica?",
         correctAnswer: "Ele é uma representação estruturada em árvore (Tree) que permite que linguagens de programação acessem e manipulem dinamicamente o conteúdo e estilo de documentos."
     }
-];
+]; 
