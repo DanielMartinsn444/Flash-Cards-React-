@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { ProgressBar } from './ProgressBar';
-import { Flashcard } from './FlashCard';
+import { ProgressBar } from './components/ProgressBar';
+import { Flashcard } from './components/FlashCard';
 import { questions } from './components/questions';
 
 export function App() {
