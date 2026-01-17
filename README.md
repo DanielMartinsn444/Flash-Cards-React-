@@ -1,6 +1,6 @@
 # 🚀 JS/React Flashcards: Mastering the Core (Roadmap.sh Code)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub repo size](https://img.shields.io/github/repo-size/DanielMartinsn444/Flash-Cards-React-?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/DanielMartinsn444/Flash-Cards-React-?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Desenvolvi esta plataforma de flashcards interativos para consolidar conceitos de JS moderno (ES6+), servindo como uma ferramenta de estudo prática e visual para desenvolvedores que buscam a senioridade.
 
