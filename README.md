@@ -47,3 +47,5 @@ Se você quer elevar seu nível em JS ou contribuir com novas questões:
 ## 👨‍💻 Mentor Notes
 
 Este projeto é um marco no meu roadmap de evolução em React. Mais do que "fazer funcionar", o desafio aqui foi dominar a responsividade matemática e garantir uma UI fluida. No desenvolvimento, priorizei a acessibilidade e o desempenho de renderização, entendendo como o React lida com o ciclo de vida de componentes que mudam constantemente de estado.
+
+URL: https://github.com/DanielMartinsn444/Flash-Cards-React-
