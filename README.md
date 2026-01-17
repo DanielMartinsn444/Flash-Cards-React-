@@ -1,3 +1,5 @@
+**Project URL:** [https://flash-cards-react-sandy.vercel.app/](https://flash-cards-react-sandy.vercel.app/)
+
 # 🚀 JS/React Flashcards: Mastering the Core (Roadmap.sh Code)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,4 +50,4 @@ Se você quer elevar seu nível em JS ou contribuir com novas questões:
 
 Este projeto é um marco no meu roadmap de evolução em React. Mais do que "fazer funcionar", o desafio aqui foi dominar a responsividade matemática e garantir uma UI fluida. No desenvolvimento, priorizei a acessibilidade e o desempenho de renderização, entendendo como o React lida com o ciclo de vida de componentes que mudam constantemente de estado.
 
-**Project URL:** https://flash-cards-react-sandy.vercel.app/
+
